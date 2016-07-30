@@ -5,3 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 git log --graph --pretty=oneline --abbrev-commit
+directoy  add/usr/bin/env
